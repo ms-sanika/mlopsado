@@ -1,5 +1,5 @@
 {
-    "subscription_id": "",
+    "subscription_id": "0a67a856-03c0-46cf-95c6-d6301ccbdf12",
     "resource_group": "DevOps_AzureML_Demo",
     "workspace_name": "AzureML_Demo_ws1",
     "location": "westus"
